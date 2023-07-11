@@ -9,11 +9,23 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 50px 80px 0px 100px;
-
-
+    padding: 50px  60px 0px 100px;
 
 }
+
+.hea{
+    font-size: 50px;
+    font-style: bold;
+}
+.img{
+height: 500px;
+width: 450px;
+
+}
+.fat{
+    width: 400px;
+}
+
 .full-head{
     text-align: center;
     margin-top: 120px;
@@ -73,15 +85,7 @@ padding: 20%;
 
 }
 
-.hea{
-    font-size: 50px;
-    font-style: bold;
-}
-.img{
-height: 500px;
-width: 450px;
 
-}
 .flower{
     background-color: rgba(229,84,115,0.10);
     display: flex;

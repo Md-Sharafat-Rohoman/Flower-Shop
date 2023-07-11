@@ -1,0 +1,178 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.shara{
+    border-width: 100vh;
+    height: 497px;
+    background-color:rgba(229,84,115,0.10);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 80px 0px 100px;
+
+
+
+}
+.full-head{
+    text-align: center;
+    margin-top: 120px;
+}
+.h-name{
+    font-size: 25px;
+    font-style: bold;
+}
+.roho{
+    font-size: 13px;
+    color: gray;
+    padding: 20px 0px ;
+}
+.butt{
+    background-color: rgb(250, 101, 101);
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none;
+}
+.border{
+    width: 870px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    gap: 15px;
+}
+.flower-image1{
+    background-color: rgba(229,84,115,0.10);
+    border-top-left-radius: 60%;
+    border-top-right-radius: 60%;
+    height: 325px;
+    width: 280px;
+
+}
+.flower-image2{
+    background-color: rgb(224, 245, 238);
+    border-top-left-radius: 60%;
+    border-top-right-radius: 60%;
+    height: 325px;
+    width: 280px;
+
+}
+.flower-image3{
+    background-color: rgb(226, 224, 224);
+    border-top-left-radius: 60%;
+    border-top-right-radius: 60%;
+    height: 325px;
+    width: 280px;
+
+}
+.image-size{
+height: 268px;
+width: 170px;
+padding: 20%;
+
+
+}
+.image-size1{
+    height: 258px;
+width: 150px;
+padding: 20%;
+}
+
+.hea{
+    font-size: 50px;
+    font-style: bold;
+}
+.img{
+height: 500px;
+width: 450px;
+
+}
+.flower{
+    background-color: rgba(229,84,115,0.10);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+    padding: 50PX 150px;
+}
+.deal{
+    font-size: 26px;
+    font-style:bold;
+}
+.ins{
+    font-size: 26px;
+    font-style:bold ;
+}
+.of{
+    color:rgb(250, 101, 101) ;
+}
+.width{
+    width: 330px;
+  
+    text-align: center;
+}
+.chobi{
+    width: 180px;
+    height: 250px;
+}
+.center{
+    text-align: center;
+    padding-top:100px;
+}
+.by{
+    height: 240px;
+    width: 210px;
+}
+.he{
+    width: 80%;
+    height: 250px;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+}
+.place{
+    padding: 10px 200px 10px 5px;
+    border: none;
+    margin-right: 5px;
+    border-radius: 5px;
+}
+.she{
+    text-align: center;
+    padding-top: 60px;
+}
+.off{
+    background-image: url('images/Rectangle\ 9.png');
+    height: 250px;
+    width: 800px;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 5px;
+}
+
+.foot{
+    background-color: black;
+    border-width: 100vh;
+    height: 160px;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+    margin-top: 100px;
+}
+.nodi{
+    color:  rgb(250, 101, 101);
+    font-size: 50px;
+    font-style: bold;
+}
+.last{
+    font-size: 50px;
+    font-style: bold;
+}
+.last-foot{
+    font-size: 10px;
+    color: gray;
+}
